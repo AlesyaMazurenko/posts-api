@@ -1,0 +1,2904 @@
+Script started on Sun Jan 29 00:53:58 2023
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004hnnpm run[?2004l
+[0m[1mLifecycle scripts[22m[0m included in [32mposts-api@1.0.0[39m:
+  test
+    [2mecho "Error: no test specified" && exit 1[22m
+
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004hnnpm n  nnpm run start[?2004l
+
+> posts-api@1.0.0 start
+> node index.js
+
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004hnpm run start[?2004l
+
+> posts-api@1.0.0 start
+> node index.js
+
+Good morning
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004hnpm run start:         start[?2004l
+
+> posts-api@1.0.0 start
+> node index.js
+
+Good morning
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004hnnpm run start:dev[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004hnpm run start:dev[?2004l
+
+> posts-api@1.0.0 start:dev
+> D
+
+sh: D: command not found
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004hnpm run start:dev[?2004l
+
+> posts-api@1.0.0 start:dev
+> nodemon
+
+[33m[nodemon] 2.0.20[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:2
+consol
+^
+
+ReferenceError: consol is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:2:1[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+N
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+N
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+Good morning
+Number 1
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:1
+const app
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:1
+const app
+      ^^^
+
+SyntaxError: Missing initializer in const declaration
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:1
+const app=r
+          ^
+
+ReferenceError: r is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:1
+const app=req
+          ^
+
+ReferenceError: req is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:1
+const app=requi
+          ^
+
+ReferenceError: requi is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:1
+const app=requi
+          ^
+
+ReferenceError: requi is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/validators:163
+    throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+[90m    at new NodeError (node:internal/errors:393:5)[39m
+[90m    at validateString (node:internal/validators:163:11)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1054:3)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m {
+  code: [32m'ERR_INVALID_ARG_TYPE'[39m
+}
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/modules/cjs/loader:1056
+    throw new ERR_INVALID_ARG_VALUE('id', id,
+    ^
+
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+[90m    at new NodeError (node:internal/errors:393:5)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1056:11)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m {
+  code: [32m'ERR_INVALID_ARG_VALUE'[39m
+}
+
+Node.js v18.12.1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/modules/cjs/loader:1056
+    throw new ERR_INVALID_ARG_VALUE('id', id,
+    ^
+
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+[90m    at new NodeError (node:internal/errors:393:5)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1056:11)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m {
+  code: [32m'ERR_INVALID_ARG_VALUE'[39m
+}
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/modules/cjs/loader:1056
+    throw new ERR_INVALID_ARG_VALUE('id', id,
+    ^
+
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+[90m    at new NodeError (node:internal/errors:393:5)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1056:11)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m {
+  code: [32m'ERR_INVALID_ARG_VALUE'[39m
+}
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+module.exports = {app;
+                     ^
+
+SyntaxError: Unexpected token ';'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:11[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] clean exit - waiting for changes before restart[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(3000, P)
+                 ^
+
+ReferenceError: P is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:3:18[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(3000, PO)
+                 ^
+
+ReferenceError: PO is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:3:18[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, )
+           ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:3:12[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:2
+co
+^
+
+ReferenceError: co is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:2:1[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:2
+constb
+^
+
+ReferenceError: constb is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:2:1[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:2
+const PORT
+      ^^^^
+
+SyntaxError: Missing initializer in const declaration
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, )
+           ^
+
+ReferenceError: Cannot access 'PORT' before initialization
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:3:12[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, () )
+                  ^
+
+SyntaxError: Unexpected token ')'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, ())
+                  ^
+
+SyntaxError: Unexpected token ')'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, ())
+                  ^
+
+SyntaxError: Unexpected token ')'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, (con))
+                  ^
+
+ReferenceError: con is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:3:19[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, ())
+                  ^
+
+SyntaxError: Unexpected token ')'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, ()=>)
+                     ^
+
+SyntaxError: Unexpected token ')'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, ()=> )
+                      ^
+
+SyntaxError: Unexpected token ')'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:3
+app.listen(PORT, ()=> {con})
+                       ^
+
+ReferenceError: con is not defined
+    at Server.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:3:24[90m)[39m
+[90m    at Object.onceWrapper (node:events:627:28)[39m
+[90m    at Server.emit (node:events:513:28)[39m
+[90m    at emitListeningNT (node:net:1519:10)[39m
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(Server is running') });
+                                     ^^^^^^
+
+SyntaxError: missing ) after argument list
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running') });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running=) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on ´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PO´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT ´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT €´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT €´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT €Å´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT €´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT ´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT ´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT $´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT ${}´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(´Server is running on PORT ${PORT}´) });
+                                     
+
+SyntaxError: Invalid or unexpected token
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:4
+app.listen(PORT, () => { console.log(Server is running on PORT ${PORT}´) });
+                                     ^^^^^^
+
+SyntaxError: missing ) after argument list
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:7
+console.log("Number 1");
+                        
+
+SyntaxError: Unexpected end of input
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/index.js:7
+console.log("Number 1");
+                        
+
+SyntaxError: Unexpected end of input
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+app.use(/)
+        ^
+
+SyntaxError: Invalid regular expression: missing /
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+app.use('/', (req,res,next))
+              ^
+
+ReferenceError: req is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:15[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+app.use('/', (req,res,next)=>)
+                             ^
+
+SyntaxError: Unexpected token ')'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+hello from middleware
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+hello from middleware
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:9
+ap
+^
+
+ReferenceError: ap is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:9:1[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:9:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:9:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:9:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:9:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/node_modules/express/lib/application.js:217
+    throw new TypeError('app.use() requires a middleware function')
+    ^
+
+TypeError: app.use() requires a middleware function
+    at Function.use [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mnode_modules/[4mexpress[24m/lib/application.js:217:11[90m)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:9:5[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+hello from middleware
+hello from middleware 2
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+const router
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+const router=re
+             ^
+
+ReferenceError: re is not defined
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:14[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/validators:163
+    throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
+    ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+[90m    at new NodeError (node:internal/errors:393:5)[39m
+[90m    at validateString (node:internal/validators:163:11)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1054:3)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:14[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m {
+  code: [32m'ERR_INVALID_ARG_TYPE'[39m
+}
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+const router=require(./)
+                     ^
+
+SyntaxError: Unexpected token '.'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+const router=require(./r)
+                     ^
+
+SyntaxError: Unexpected token '.'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+const router=require(./ro)
+                     ^
+
+SyntaxError: Unexpected token '.'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:4
+const router=require(./ro)
+                     ^
+
+SyntaxError: Unexpected token '.'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/modules/cjs/loader:1056
+    throw new ERR_INVALID_ARG_VALUE('id', id,
+    ^
+
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+[90m    at new NodeError (node:internal/errors:393:5)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1056:11)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:14[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m {
+  code: [32m'ERR_INVALID_ARG_VALUE'[39m
+}
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/modules/cjs/loader:998
+  throw err;
+  ^
+
+Error: Cannot find module './rou'
+Require stack:
+- /Users/alesya/Desktop/Node-GoIT/posts-api/app.js
+- /Users/alesya/Desktop/Node-GoIT/posts-api/index.js
+[90m    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:841:27)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:14[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m {
+  code: [32m'MODULE_NOT_FOUND'[39m,
+  requireStack: [
+    [32m'/Users/alesya/Desktop/Node-GoIT/posts-api/app.js'[39m,
+    [32m'/Users/alesya/Desktop/Node-GoIT/posts-api/index.js'[39m
+  ]
+}
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:14[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:14[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:16[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+(node:67838) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added to [Bus]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:16
+app.use('/', router
+             ^^^^^^
+
+SyntaxError: missing ) after argument list
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:16
+app.use('/', router()
+                    ^
+
+SyntaxError: missing ) after argument list
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/app.js:16
+app.use('/', router
+             ^^^^^^
+
+SyntaxError: missing ) after argument list
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mindex.js:1:13[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+^C
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                         [0m[27m[24m[Jalesya@Anatoliis-MBP posts-api % [K[?2004hnpm run start:dev[?2004l
+
+> posts-api@1.0.0 start:dev
+> nodemon
+
+[33m[nodemon] 2.0.20[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: [text: "wer", tde; "iuy"]})
+                           ^
+
+SyntaxError: Unexpected token ':'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+/Users/alesya/Desktop/Node-GoIT/posts-api/router/index.js:6
+    res.json({ posts: ["wer", tde; "iuy"]})
+                                 ^
+
+SyntaxError: Unexpected token ';'
+[90m    at Object.compileFunction (node:vm:360:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1088:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1123:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+    at Object.<anonymous> [90m(/Users/alesya/Desktop/Node-GoIT/posts-api/[39mapp.js:4:20[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+
+Node.js v18.12.1
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Good morning
+Number 1
+Server is running on PORT 3000
